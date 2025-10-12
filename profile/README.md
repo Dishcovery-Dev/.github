@@ -1,4 +1,4 @@
-  <img width="100%" src="https://raw.githubusercontent.com/Dishcovery-App/.github/main/cover.png"  />
+  <img width="80%" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/profile/cover.jpg"  />
   
 
 # 🍽️ DISHCOVERY App  
