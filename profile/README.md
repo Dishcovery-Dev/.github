@@ -1,4 +1,4 @@
-  <img width="80%" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/profile/cover.jpg"  />
+  <img width="100%" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/Dishcovery-Cover.png"  />
   
 
 # 🍽️ DISHCOVERY App  
@@ -13,7 +13,7 @@
   
 ## About the Project
 
-Indonesian cuisine is rich, diverse, and full of unique cultural flavors — yet, many local dishes remain undiscovered by the younger generation. **Dishcovery App** is built to bridge this gap by providing an engaging way for users to **explore, learn, and rediscover traditional Indonesian dishes** through a modern mobile experience powered by **Flutter**, **Firebase**, and **Supabase**.
+Indonesian cuisine is rich, diverse, and full of unique cultural flavors — yet, many local dishes remain undiscovered by the younger generation. **Dishcovery App** is built to bridge this gap by providing an engaging way for users to **explore, learn, and rediscover traditional Indonesian dishes** through a modern mobile experience powered by **Flutter** and **Firebase**.
 
 We aim to preserve Indonesia’s culinary heritage by bringing technology closer to local food discovery.
 
@@ -89,8 +89,6 @@ Let’s rediscover the taste of Indonesia — one dish at a time! 🍛
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
