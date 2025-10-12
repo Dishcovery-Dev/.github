@@ -23,10 +23,10 @@ We aim to preserve Indonesia’s culinary heritage by bringing technology closer
 
 | Team               | BEKUP ID | Repository Link                                                                |            
 |--------------------|--------------|--------------------------------------------------------------------------------|
-| Fadhil Alif Priyatno    |   BC25B053   | (https://github.com/FadhilAlif)             |
-| Galih Putro Aji |  BC25B049            | (https://github.com/galihvsx)            |
-| Yunanto Biantoro   |   BC25B022                | (https://github.com/Drmobkey)       |
-| Mochammad Rizky Ramadhani  | BC25B054          | https://github.com/Mokyra18)      |
+| Fadhil Alif Priyatno       | BC25B053 | https://github.com/FadhilAlif |
+| Galih Putro Aji            | BC25B049 | https://github.com/galihvsx   |
+| Yunanto Biantoro           | BC25B022 | https://github.com/Drmobkey   |
+| Mochammad Rizky Ramadhani  | BC25B054 | https://github.com/Mokyra18   |
 ---
 
 ## 🧩 **Project Highlights**
@@ -78,7 +78,7 @@ We welcome contributions to make Dishcovery even better! Here's how you can get 
 
 ## 📩 **Contact**
 For questions or feedback, please contact us at:  
-- Email: [dishcoveryapp@gmail.com](mailto:dishcoveryapp@gmail.com)  
+- Email: [contact.dishcovery@gmail.com](mailto:contact.dishcovery@gmail.com)  
 
 ---
 
