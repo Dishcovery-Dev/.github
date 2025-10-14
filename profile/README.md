@@ -11,7 +11,7 @@
   <img height="400" src="https://raw.githubusercontent.com/Dishcovery-App/.github/main/ss/favorite.png"  />
 </div>
   
-## About the Project
+## 📝 About the Project
 
 Indonesian cuisine is rich, diverse, and full of unique cultural flavors — yet, many local dishes remain undiscovered by the younger generation. **Dishcovery App** is built to bridge this gap by providing an engaging way for users to **explore, learn, and rediscover traditional Indonesian dishes** through a modern mobile experience powered by **Flutter** and **Firebase**.
 
