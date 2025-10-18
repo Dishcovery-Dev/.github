@@ -4,11 +4,13 @@
 # 🍽️ DISHCOVERY App  
 
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/Dishcovery-App/.github/main/ss/home.png"  />
+  <img height="400" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/ss/Feed Page.jpeg" title="Halaman Feed - Menampilkan berbagai makanan yang direkomendasikan" /> 
+  
+  <img height="400" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/ss/Result Page.jpeg" title="Halaman Hasil - Menampilkan hasil scan, deskripsi, sejarah, bahan, dan langkah memasak"   />
 
-  <img height="400" src="https://raw.githubusercontent.com/Dishcovery-App/.github/main/ss/detail.png"  />
+  <img height="400" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/ss/Collection.jpeg" title="Halaman Koleksi - Menyimpan daftar makanan favorit pengguna" />
 
-  <img height="400" src="https://raw.githubusercontent.com/Dishcovery-App/.github/main/ss/favorite.png"  />
+   <img height="400" src="https://raw.githubusercontent.com/Dishcovery-Dev/.github/main/ss/Settings Page.jpeg" title="Halaman Pengaturan - Ubah bahasa, tema, dan preferensi pengguna" /> 
 </div>
   
 ## 📝 About the Project
